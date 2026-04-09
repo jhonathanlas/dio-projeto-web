@@ -1,0 +1,3 @@
+function mostrarMensagem() {
+  document.getElementById(mensagem).innerText = 🔥 Projeto funcionando com sucesso!;
+}
